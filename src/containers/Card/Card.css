@@ -1,0 +1,23 @@
+.card{
+    text-align: left;
+  
+    font-size: 1.5rem ;
+    background-color: rgba(140, 159, 163, 0.363);
+    margin: 1.5rem -0.5rem;
+    border-bottom: 1px solid rgb(10, 10, 10);
+    box-shadow: 4px 3px rgb(112, 112, 112);
+    padding: 1rem;
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+.head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.card:hover{
+    opacity: 1;
+    background-color: rgb(161, 158, 158);
+    font-size: 1.55rem ;
+    /* padding: 0.8rem; */
+    /* margin: 1.5rem -0.5rem; */
+}

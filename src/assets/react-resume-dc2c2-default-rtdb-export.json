@@ -1,0 +1,60 @@
+{
+  "PersonalData" : {
+    "Age" : 19,
+    "Gender" : "Male",
+    "Name" : "Lakshay Thakur",
+    "Phone" : 7011353456
+  },
+  "controls" : {
+    "Academic Profile" : {
+      "text" : [ {
+        "Degree" : "B.Tech",
+        "Institution" : "Delhi Technological University",
+        "Marks" : "7.73 CGPA",
+        "Year" : "2018-2022"
+      }, {
+        "Degree" : "Class XII",
+        "Institution" : "CBSE",
+        "Marks" : "92%(2nd in class)",
+        "Year" : "2017-2018"
+      }, {
+        "Degree" : "Class X",
+        "Institution" : "CBSE",
+        "Marks" : "9.2 CGPA",
+        "Year" : "2015-2016"
+      } ]
+    },
+    "Contributions and Projects" : {
+      "text" : [ "Amazon Alexa Skill Dev Skill ID : amzn1.ask.skill.36c07f12-0765-442b-bba9-8bc5236760e5", "Hacktober Fest | Digital Ocean", "Currently developing a Food website", "Burger Project- https://react-burger-project-cc565.firebaseapp.com/" ]
+    },
+    "Declaration" : {
+      "text" : "I, hereby declare that the details furnished above are true and correct to the best of my knowledge and belief."
+    },
+    "Position of Responsiblity" : {
+      "text" : [ "Organized various quizzes at Intra School level.", "Improved Efficiency and rank as Head Boy of class." ]
+    },
+    "References" : {
+      "text" : [ "EMPTY" ]
+    },
+    "Skills" : {
+      "text" : {
+        "Backend (Beginner)" : "NodeJS,Express,Pug.js.",
+        "Frontend (Intermediate)" : "HTML,CSS ,JavaScript ,ReactJSBootstrap.",
+        "Problem Solving" : "Data Structure and Algorithms.",
+        "Programming Languages" : "Java",
+        "Tools" : "Git,Github,Postman"
+      }
+    },
+    "Work Experience" : {
+      "text" : ["Empty" ]
+    }
+  },
+  "links" : {
+    "Codechef" : "https://www.codechef.com/users/lakshay2",
+    "GeeksforGeeks" : "https://auth.geeksforgeeks.org/user/lakshaythakur/profile",
+    "Github" : "https://github.com/newatcoding",
+    "Leetcode" : "https://leetcode.com/lakshay_lucky/",
+    "Linkedin" : "https://www.linkedin.com/in/lakshay-thakur-70a64a148/",
+    "thakurlakshay2" : "https://mail.google.com/"
+  }
+}

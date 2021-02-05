@@ -1,0 +1,21 @@
+.data{
+  
+    align-content: space-between; 
+   
+    background-color: rgba(174, 235, 243, 0.555);
+    margin: 1rem  2rem;
+    border-bottom: 1px solid rgb(10, 10, 10);
+    box-shadow: 4px 3px rgba(112, 112, 112, 0.719);
+    padding: 1rem;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+.text{
+    align-content: space-between;
+  
+}
+.data:hover{
+    /* font-size: 1rem; */
+    background-color: rgba(174, 235, 243, 0.945);
+    box-shadow: 5px 4px rgb(112, 112, 112);
+}

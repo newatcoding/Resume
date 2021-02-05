@@ -1,0 +1,44 @@
+.Heading{
+    display:inline-flex;
+
+    width: 95%;
+   
+    color:black;
+    font:inherit;
+    border-bottom:3px solid rgb(193, 214, 233);
+    border-spacing: 15rem;
+    padding:8px;
+    box-shadow:3px 3px #ccc;
+    align-content: space-between;
+    background-color:rgb(211, 230, 248);
+}
+.NamenPhoto{
+    display: block;
+    text-align: left;
+    margin-right:5rem ;
+}
+.Personal{
+    display: inline-grid;
+}
+.b{
+    margin:1rem 1rem;
+}
+@media (max-width:550px){
+    .Heading{
+        display:block;
+    
+        width: 95%;
+       
+        color:black;
+        font:inherit;
+        border-bottom:3px solid rgb(193, 214, 233);
+        border-spacing: 15rem;
+        padding:8px;
+        box-shadow:3px 3px #ccc;
+        align-content: space-between;
+        background-color:aliceblue;
+    }
+    .Personal{
+        display: block;
+    }
+}
